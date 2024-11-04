@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://acituihi.github.io/DPX/sitemap_index.txt
+Sitemap: https://acituihi.github.io/epV/sitemap_index.txt
+Sitemap: https://acituihi.github.io/fSE/sitemap_index.txt
+Sitemap: https://acituihi.github.io/xlh/sitemap_index.txt
